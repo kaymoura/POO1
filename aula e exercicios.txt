@@ -1,0 +1,137 @@
+estrutura condicional
+
+if (       )
+{
+
+}
+else
+{
+
+
+}
+
+estrutura condicional
+
+if ( condicão )
+{
+
+}
+else
+{
+	if(    ){
+	
+	}
+	else
+	{
+		if (     )
+		{
+		
+		}
+		else
+		{
+		
+		}
+	
+	}
+
+}
+=====================
+
+if ( condicão )
+{
+
+}
+else if(    ){
+	
+	}
+	else if (     )
+		{
+		
+		}
+		else
+		{
+		
+		}
+	
+	=============================
+
+valor /2
+mod - resto da divisão
+
+codigo  cardapio           preço
+1		Cachorro quente     R$ 8,00
+2		X-Salada			R$ 18,00
+3		X-Bacon				R$ 16,00
+4		Torrada Simples		R$ 4,00
+5		Refrigerante		R$ 5,00
+
+Informe o codigo e a quantidade
+
+
+solicita a media do aluno
+
+menor que 4 - reprovado
+menor 5 - recuperação
+menor 6 = conselho
+menor ou igual 10 - aprovado
+
+11 - nota invalida
+
+operador ternario
+
+  String nome da variavel = (numero % 2 == 0)? "O número é Par!":"O número é impar";
+        
+	System.out.println(nome da variavel);
+	
+=========================
+
+switch( expressão ){
+	case valor1:
+		gjhghgh
+		kjkjkjk
+		break;
+	case valor2:
+		jhjh
+		jkjkj
+		break;
+	default:
+		hghghgh
+		jjhjhj
+		break;
+		
+
+}
+maquina de salgados e doces
+
+1 - chocolate
+2 - Bala
+3 - Refrigerante
+4 - agua
+5- Suco
+
+
+A - Jornal
+B - Revista
+C - manga
+D - Revista de mOda
+E - Revista negocios
+
+banco shabaray
+Bem vindo escolha uma opção
+
+Consultar Saldo
+Depositar
+Sacar
+Transferir
+Sair
+
+String escolha = scanner.nextLine().toLower();
+
+switch(escolha) {
+	case "consultar saldo":
+	sout("seu saldo é R$ 5.000,00");
+	break;
+
+
+}
+
